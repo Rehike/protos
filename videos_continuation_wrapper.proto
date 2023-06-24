@@ -13,4 +13,5 @@ message VideosContinuationWrapper
 {
     string continuation = 1;
     bool list = 2;
+    bool wrap_in_grid = 3;
 }
