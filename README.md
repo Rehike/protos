@@ -1,3 +1,7 @@
+# Deprecation notice
+
+The content of this repository has been moved to [src/protos in the main repository.](//github.com/Rehike/Rehike/tree/master/src/protos)
+
 # Protos
 
 This repository contains Protobuf definitions that Rehike uses including but not limited to reverse engineered InnerTube Protobuf formats.
